@@ -37,8 +37,6 @@ The dashboard gives HR leaders and business stakeholders a single view to track 
 ## 🖼️ Dashboard Preview
 📊 *Full interactive dashboard built in Microsoft Power BI*
 
-> Add your dashboard screenshot/GIF here → `![Dashboard Preview](assets/dashboard_preview.png)`
-
 ---
 
 ## 📊 KPIs Tracked
@@ -166,7 +164,7 @@ HR_Analytics_Dashboard.pbix
 
 🎓 BCA Graduate (2025) | 🎓 Pursuing MCA @ D Y Patil Technical & Agriculture University, Kolhapur
 
-🔗 [LinkedIn](#) · 🐙 [GitHub](#) · 📧 [Email](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/kabirshaikh232/) · 🐙 [GitHub](#) · 📧 [Email](shaikhkabir232@gmail.com)
 
 ⭐ *If this project helped you, please give it a star!*
 
